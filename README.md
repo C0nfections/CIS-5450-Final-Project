@@ -1,4 +1,4 @@
-# CIS-5450-Final-Project
+# Job Posting Popularity Forecaster
 
 The goal of this project is to gain a deeper understanding of the job postings dataset through comprehensive exploratory data analysis (EDA) and implementing various regression models to predict the number of applies a job posting will get based on factors such as location, skills, salary, views, and the presence of a remote option.
 
